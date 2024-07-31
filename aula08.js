@@ -14,10 +14,10 @@ let res3 = n1 ^ n2; // operação ^(XOR), conserva os bits 1, quando não há eq
 
 console.log(res3);
 
-let res4 = n1 >> 1; // Deslocamento de 1 bit para direita
+let res4 = n1 >> 1; // Deslocamento de 1 bit para direita, divide o valor pela metade
 
 console.log(res4);
 
-let res5 = n1 << 1; // Deslocamento de 1 bit para esquerda
+let res5 = n1 << 1; // Deslocamento de 1 bit para esquerda, dobra o valor
 
 console.log(res5);
