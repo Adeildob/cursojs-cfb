@@ -33,11 +33,11 @@ button {
   align-items: center;
 }
 
-/* .selecionado {
+.selecionado {
   background-color: #800 !important;
   color: #fcc !important;
   border-color: #f00 !important;
-} */
+}
 .c1 {
   background-color: #ccc;
   color: #444;
