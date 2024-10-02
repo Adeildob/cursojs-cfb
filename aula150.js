@@ -1,4 +1,4 @@
-// Criando uma tela de login em Javascript do tipo módulo #P8 - Curso de Javascript
+// Disponibilizando conteúdo via CDN #P1 - Módulo tela de login #P10 - Curso de Javascript - Aula 150
 
 // import { Login } from "./login149.js";
 import { Cxmsg } from "./cxmsg.js";
